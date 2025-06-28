@@ -69,7 +69,7 @@ pluggy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pluggy_16
 ply @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ply_1699473999871/work
 postgrest==0.19.3
 propcache==0.3.0
-protobuf==4.25.3
+protobuf==4.25.8
 pyarrow @ file:///C:/b/abs_cbc4sg_1e0/croot/pyarrow_1721664257308/work/python
 pycosat @ file:///C:/b/abs_5csdern___/croot/pycosat_1714513102923/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
